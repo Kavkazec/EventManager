@@ -8,6 +8,6 @@ namespace Roy.EventManager.Domain.Model.Common
 {
     class GenreTags: BaseModel
     {
-        public string GenreTag { get; set; }
+        public string Name { get; set; }
     }
 }

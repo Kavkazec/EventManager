@@ -12,7 +12,8 @@ namespace Roy.EventManager.Domain.Model
         public Country Country { get; set; }
         public City City { get; set; }
         public City Place { get; set; }
-        public List<Tags> Tags { get; set; }
+        public List<GenreTags> GenreTags { get; set; }
+        public List<PlaceTags> PlaceTags { get; set; }
         public List<Participant> Participants { get; set; }
         public List<User> Users { get; set; }
         public DateTime date { get; set; }
