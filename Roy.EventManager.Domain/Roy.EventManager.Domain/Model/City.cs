@@ -13,5 +13,6 @@ namespace Roy.EventManager.Domain.Model
         public List<UserGroup> UserGroupList { set; get; }
         public List<User> UserList { set; get; }
         public List<Event> EventList { set; get; }
+        public string Plase { set; get; }
     }
 }

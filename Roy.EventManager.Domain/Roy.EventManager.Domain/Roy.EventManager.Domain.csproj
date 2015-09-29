@@ -45,6 +45,7 @@
     <Compile Include="Model\Event.cs" />
     <Compile Include="Model\GenreTags.cs" />
     <Compile Include="Model\News.cs" />
+    <Compile Include="Model\Participants.cs" />
     <Compile Include="Model\PlaceTags.cs" />
     <Compile Include="Model\Role.cs" />
     <Compile Include="Model\User.cs" />

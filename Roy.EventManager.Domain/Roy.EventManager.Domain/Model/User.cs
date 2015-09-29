@@ -14,14 +14,10 @@ namespace Roy.EventManager.Domain.Model
         public string Info { get; set; }
 
         public int Age { get; set; }
-
-        public List<string> YearsOfExsistence { get; set; }
-
         public DateTime DateOfRegistration { get; set; }
         public Role Role { get; set; }
         public List<GenreTags> GenreTags { get; set; }
         public List<PlaceTags> PlaceTags { get; set; }
-
         public List<UserGroup> UserGroups { get; set; }
     }
 }
