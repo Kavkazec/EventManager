@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Roy.EventManager.Domain.Model
 {
-    class User
+    class User: BaseModel
     {
         public string NickName { get; set; }
 
@@ -23,16 +23,5 @@ namespace Roy.EventManager.Domain.Model
         public List<PlaceTags> PlaceTags { get; set; }
 
         public List<UserGroup> UserGroups { get; set; }
-
-
-
-
-
-
-
-
-
-
-
     }
 }

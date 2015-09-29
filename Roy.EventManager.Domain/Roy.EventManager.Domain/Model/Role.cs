@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Roy.EventManager.Domain.Model
 {
-    class Role: BaseModel
+    class Role:BaseModel
     {
         public bool isUser { get; set; }
         public bool isAdmin { get; set; }

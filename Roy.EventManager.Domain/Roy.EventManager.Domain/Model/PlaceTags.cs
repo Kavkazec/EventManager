@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Roy.EventManager.Domain.Model
 {
-    public class PlaceTags: BaseModel
+    class PlaceTags: BaseModel
     {
         public string Name { get; set; }
     }

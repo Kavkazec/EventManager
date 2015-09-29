@@ -17,6 +17,5 @@ namespace Roy.EventManager.Domain.Model
         public List<Participant> Participants { get; set; }
         public List<User> Users { get; set; }
         public DateTime date { get; set; }
-
     }
 }

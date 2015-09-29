@@ -39,11 +39,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\City.cs" />
     <Compile Include="Model\Common\BaseModel.cs" />
-    <Compile Include="Model\GenreTags.cs" />
+    <Compile Include="Model\Country.cs" />
     <Compile Include="Model\Event.cs" />
-    <Compile Include="Model\Role.cs" />
+    <Compile Include="Model\GenreTags.cs" />
+    <Compile Include="Model\News.cs" />
     <Compile Include="Model\PlaceTags.cs" />
+    <Compile Include="Model\Role.cs" />
     <Compile Include="Model\User.cs" />
     <Compile Include="Model\UserGroup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

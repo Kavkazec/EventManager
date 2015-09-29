@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace Roy.EventManager.Domain.Model
 {
-    public class UserGroup: BaseModel
+    class UserGroup: BaseModel
     {
         public string Name { get; set; }
 
-        //public Country Place { get; set; }
+        public Country Place { get; set; }
 
         public List<User> UserList { get; set; }
         public List<GenreTags> GenreTags { get; set; }
