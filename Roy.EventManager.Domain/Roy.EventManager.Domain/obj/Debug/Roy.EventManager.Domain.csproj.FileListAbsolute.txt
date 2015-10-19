@@ -1,6 +1,0 @@
-c:\users\natalia\documents\visual studio 2013\Projects\Roy.EventManager.Domain\Roy.EventManager.Domain\obj\Debug\Roy.EventManager.Domain.csprojResolveAssemblyReference.cache
-C:\Users\Natalia\Source\Repos\EventManager\Roy.EventManager.Domain\Roy.EventManager.Domain\obj\Debug\Roy.EventManager.Domain.csprojResolveAssemblyReference.cache
-C:\Users\Natalia\Source\Repos\EventManager\Roy.EventManager.Domain\Roy.EventManager.Domain\bin\Debug\Roy.EventManager.Domain.dll
-C:\Users\Natalia\Source\Repos\EventManager\Roy.EventManager.Domain\Roy.EventManager.Domain\bin\Debug\Roy.EventManager.Domain.pdb
-C:\Users\Natalia\Source\Repos\EventManager\Roy.EventManager.Domain\Roy.EventManager.Domain\obj\Debug\Roy.EventManager.Domain.dll
-C:\Users\Natalia\Source\Repos\EventManager\Roy.EventManager.Domain\Roy.EventManager.Domain\obj\Debug\Roy.EventManager.Domain.pdb
